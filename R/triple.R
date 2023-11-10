@@ -1,0 +1,1 @@
+triple <- function(x) return(3*x)
